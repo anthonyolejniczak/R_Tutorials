@@ -1,0 +1,6 @@
+     nbr.val     nbr.null       nbr.na          min          max        range 
+1.000000e+03 0.000000e+00 0.000000e+00 5.001692e+02 1.174320e+03 6.741513e+02 
+         sum       median         mean      SE.mean CI.mean.0.95          var 
+8.395484e+05 8.439391e+02 8.395484e+02 6.083991e+00 1.193887e+01 3.701495e+04 
+     std.dev     coef.var 
+1.923927e+02 2.291621e-01 

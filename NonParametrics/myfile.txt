@@ -1,0 +1,7 @@
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  y and x
+W = 0, p-value < 2.2e-16
+alternative hypothesis: true location shift is not equal to 0
+
